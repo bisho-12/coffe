@@ -1,96 +1,44 @@
 .navbar
 {
-    background-color: #ffffff1f;
-    position: fixed;
-    left: 0;
-    right: 0;
-}
-
-.navbar-brand{
-    color: aliceblue;
-
+    background-color:rgb(214, 214, 214);
 }
 
 
-.nav-link{
-    color: aliceblue;
-    font-family: cursive;
-}
-
-.navbar-nav {
-    --bs-nav-link-padding-x: 0;
-    --bs-nav-link-padding-y: 0.5rem;
-    --bs-nav-link-font-weight: ;
-    --bs-nav-link-color: var(--bs-navbar-color);
-    --bs-nav-link-hover-color: #d3ad7f;
-    --bs-nav-link-disabled-color: var(--bs-navbar-disabled-color);
-    display: flex;
-    flex-direction: column;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-    font-size: 18px;
-}
-
-a
+.navbar
+.navbar-brand
 img
 {
-height: 60px;
-padding: 4px;
-}
-
-
-.home
-.container
-.content
-h1
-span
-{
-    color: #d3ad7f;
+    height: 45px;
 }
 
 
 .home
 {
-    padding-top: 140px;
-    min-height: 100vh;
-    background-color: #2a201c;
-padding-left: 50px;
-
+    padding-top: 90px;
 }
 
 
-.home
-.content
-h1
+.imoo
 {
- text-transform: uppercase;
- font-size: 4rem;
- color: aliceblue;
- font-family: cursive;
-
-}
-
-.home
-.content
-p
-{
- 
- color: aliceblue;
+    height: 70%;
 }
 
 
-.home 
-button
+.photo
 {
-    background-color: #d3ad7f;
-    color: aliceblue;
+    width: 100px;
+    cursor: pointer;
+}
+
+
+
+
+
+.Main
+
+{
+
     transition: all 0.5s;
 }
 
-.home 
-button:hover{
-    background-color: #d3ad7f;
-    color: aliceblue;
-    letter-spacing: 5px;
-}
+
